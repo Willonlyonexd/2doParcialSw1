@@ -38,6 +38,13 @@
     <menuitem name="comunicados" id="pruebamjp.menu_25_list" parent="pruebamjp.menu_2"
       action="pruebamjp.action_comunicado_window" />
 
+    <!-- Opción "Actividad" dentro del submenú "Curso" -->
+    <menuitem name="Actividad" id="pruebamjp.menu_26_list" parent="pruebamjp.menu_2"
+      action="pruebamjp.action_actividad_window" />
+
+    <menuitem name="Agenda" id="pruebamjp.menu_agenda" parent="pruebamjp.menu_2" action="action_agenda_window" />
+
+
 
     <!-- Submenú "Gestion" -->
     <!-- Este submenú agrupa opciones relacionadas con la gestión y los periodos académicos. -->
@@ -86,6 +93,5 @@
     <!-- Maneja la asistencia de los estudiantes. -->
     <menuitem name="asistencia" id="pruebamjp.menu_29_list" parent="pruebamjp.menu_4"
       action="pruebamjp.action_asistencia_window" />
-
   </data>
 </odoo>

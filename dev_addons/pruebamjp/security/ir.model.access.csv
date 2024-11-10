@@ -20,3 +20,6 @@ access_pruebamjp_estudiante_tutor,pruebamjp.estudiante_tutor,model_pruebamjp_est
 access_pruebamjp_asistencia,pruebamjp.asistencia,model_pruebamjp_asistencia,base.group_user,1,1,1,1
 access_pruebamjp_asistenciawizard,pruebamjp.asistenciawizard,model_pruebamjp_asistenciawizard,base.group_user,1,1,1,1
 access_pruebamjp_asistencialine,pruebamjp.asistencialine,model_pruebamjp_asistencialine,base.group_user,1,1,1,1
+access_pruebamjp_agenda,pruebamjp.agenda,model_pruebamjp_agenda,base.group_user,1,1,1,1
+access_pruebamjp_actividad,pruebamjp.actividad,model_pruebamjp_actividad,base.group_user,1,1,1,1
+access_pruebamjp_actividad_usuario,pruebamjp.actividad_usuario,model_pruebamjp_actividad_usuario,base.group_user,1,1,1,1

@@ -21,14 +21,16 @@
         <form string="Comunicado Form">
            
             <group>
-            
               <field name="nombre" />
               <field name="description" />
               <field name="fecha" />
                <field name="comunicado_usuario_ids" />  
-                 
-               
-               
+            </group>
+            
+            <group string="Contenido Multimedia">
+              <field name="imagen" filename="imagen_filename"/>
+              <field name="video" filename="video_filename"/>
+              <field name="audio" filename="audio_filename"/>
             </group>
             <group name="filtro" string="filtro para el curso">
               
